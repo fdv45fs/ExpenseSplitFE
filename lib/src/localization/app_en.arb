@@ -1,0 +1,6 @@
+{
+  "appTitle": "expense_split",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
